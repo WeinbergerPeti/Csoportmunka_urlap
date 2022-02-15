@@ -4,3 +4,29 @@
     margin: 0px;
     padding: 0px;
 }
+
+
+header
+{
+    grid-area: h;
+}
+
+nav
+{
+    grid-area: n;
+}
+
+article
+{
+    grid-area: a;
+}
+
+aside
+{
+    grid-area: as;
+}
+
+footer
+{
+    grid-area: f;
+}
