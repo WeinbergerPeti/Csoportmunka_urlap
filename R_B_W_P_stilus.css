@@ -5,6 +5,14 @@
     padding: 0px;
 }
 
+main
+{
+    display: grid;
+    grid-template-areas: "h h h h h h h"
+                         "n n n n n n n"
+                         "a a a a as as as"
+                         "f f f f f f f";
+}
 
 header
 {
